@@ -1,0 +1,14 @@
+{
+    "name": "bruno/learn-berlindb",
+    "authors": [
+        {
+            "name": "Bruno Ribaric",
+            "email": "bruno@ribarich.me"
+        }
+    ],
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    }
+}
